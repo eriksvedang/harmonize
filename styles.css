@@ -5,6 +5,13 @@
      box-sizing: border-box; 
 }
 
+a {
+    margin-right: 2em;
+    font-size: 1.2em;
+    color: #33DDDD;
+    text-decoration: none;
+}
+
 body {
     font-size: 1.2em;
     line-height: 1.5em;
